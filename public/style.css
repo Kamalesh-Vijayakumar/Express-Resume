@@ -1,0 +1,19 @@
+*{
+    font-family:sans-serif;
+}
+body{
+    width: 400px;
+    text-align: left;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 220px;
+    background-color: aqua;
+}
+
+.main
+{
+    border: 2px solid black;    
+    background-color: azure;
+    padding: 15px;
+    border-radius: 15px;
+}
